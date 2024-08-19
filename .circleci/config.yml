@@ -28,7 +28,7 @@ parameters:
 
 orbs:
   prodsec: snyk/prodsec-orb@1
-  snyk: snyk/snyk@2.0.3
+  snyk: snyk/snyk@2.2.0
   aws-cli: circleci/aws-cli@2.0.3
   gh: circleci/github-cli@2.1.0
 
