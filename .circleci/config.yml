@@ -43,7 +43,7 @@ executors:
     resource_class: small
   circle-go:
     docker:
-      - image: cimg/go:1.20
+      - image: cimg/go:1.23
     resource_class: medium+
   docker-amd64:
     docker:
